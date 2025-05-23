@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases my bachelor's thesis, a full-stack application with CRUD functionalities, entity relationships, an instant feedback compiler as part of the focus on gamified learning, and other features meant to **ease the educational process for the students and teachers of _BBU, starting with Fall 2025_**. 
+This project showcases my bachelor's thesis, a full-stack application with CRUD functionalities, entity relationships, an instant feedback compiler as part of the focus on gamified learning, and other features meant to **ease the educational process for the students and teachers of a university**. 
 
 ## Technologies
 
